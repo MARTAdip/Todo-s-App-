@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+* {
+    text-align: center;
+}
+
+li {
+    font-family: 'Special Elite', cursive;
+
+}
+
+h1{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 45px;
+}
+button {
+    font-size: 15px;
+    background-color:black;
+    color: violet;
+    font-family: 'Special Elite', cursive;
+
+}
+
+input {
+   
+
+}
