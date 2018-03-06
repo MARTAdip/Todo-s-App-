@@ -1,2 +1,2 @@
 Todo's App
-![screenshot](./screenshot/Todos/list.png)
+![screenshot](./screenshot-Todos-list.png)
